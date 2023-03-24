@@ -17,7 +17,7 @@ RAM |16GB|13~52GB|13GB|
 Storage |250GB|166GB|73GB| 
 
 # 목차
-- [🏈 대회소개](#대회소개)
+- [🏈 대회소개](#-대회소개)
 - [📆 Schedule(Time Stamp)](https://timetreeapp.com/calendars/Bs7yrwhD6Q5H)
 
 
