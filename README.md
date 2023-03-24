@@ -35,7 +35,16 @@ Storage |250GB|166GB|73GB|
 > 미식축구(National Football League, NFL)는 미국에서 가장 인기 있는 프로페셔널 리그 중 하나
 미식축구 경기는 공을 가지고 상대편 골대까지 전진하며 점수를 얻는 것이 목적
 총 32개의 팀으로 구성되어 있으며, 미국과 세계 각지에서 매년 매우 인기 있는 경기들을 개최
-매년 2월 초에 열리는 NFL의 결승전인 슈퍼볼은 단일 스포츠 이벤트로서는 세계 최대 규모의 흥행을 자랑 
+매년 2월 초에 열리는 NFL의 결승전인 슈퍼볼은 단일 스포츠 이벤트로서는 세계 최대 규모의 흥행을 자랑  
+
+### Kaggle 1st and Futre - Player Contact Detection  
+<img width="966" alt="스크린샷 2023-03-24 오후 3 14 38" src="https://user-images.githubusercontent.com/112835087/227440285-519b539a-ba84-4a3c-a303-7bce5ad4e62d.png">
+NFL(The National Football League) & AWS에서 주최한 미식축구 관련 대회   
+> VIDEO 및 플레이어 Tracking Data를 사용하여 선수 부상 감시 및 완화 프로그램을 만들기 위한 목적  
+1️⃣ 첫번째 대회는 헬멧 충돌 탐지(Impact Detection) - 헬멧 중 어떤 것이 충돌을 일으키고 있는가?  
+2️⃣ 두번째 대회는 헬멧 배정(Helmet Assignment) - 충돌하는 헬멧을 쓰고 있는 선수는 누구인가?  
+3️⃣ 여기에 이어 열린 3번째 대회 선수 접촉 탐지(Player Contact Detection) - 경기 중에 누가 접촉을 했는가?  
+
 
 ## 📆수행일정📆
 <img width="1200" img height="600" src="https://user-images.githubusercontent.com/112835087/227437692-0209e5fa-d55c-474c-afb7-296772346876.png">
