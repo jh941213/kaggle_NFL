@@ -71,6 +71,8 @@ NFL 영상| Train| Test |
 > 두 개의 메인 뷰는 Sideline 및 Endzone에서 촬영 → 비디오 쌍은 시간 프레임별로 일치  
  영상 모두 59.94HZ의 프레임 속도 (초당 약 60개의 프레임(정확히는 59.94개)으로 구성)
 
-### 비정형 데이터  
-<img width="550" alt="스크린샷 2023-03-24 오후 3 39 32" src="https://user-images.githubusercontent.com/112835087/227444643-2467b40a-145f-493a-a38e-673c536544a6.png">
+### 정형 데이터  
+📄 CSV 파일  
+<img width="550" alt="스크린샷 2023-03-24 오후 3 39 32" src="https://user-images.githubusercontent.com/112835087/227444643-2467b40a-145f-493a-a38e-673c536544a6.png">  
+
 
