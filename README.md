@@ -29,6 +29,7 @@ Storage |250GB|166GB|73GB|
   <img width="610" alt="스크린샷 2023-03-24 오후 3 05 59" src="https://user-images.githubusercontent.com/112835087/227438232-5538ff70-ca26-4024-a606-679af843c747.png">
  </p>
 NFL 이란?  
+
 > 미식축구(National Football League, NFL)는 미국에서 가장 인기 있는 프로페셔널 리그 중 하나
 미식축구 경기는 공을 가지고 상대편 골대까지 전진하며 점수를 얻는 것이 목적
 총 32개의 팀으로 구성되어 있으며, 미국과 세계 각지에서 매년 매우 인기 있는 경기들을 개최
