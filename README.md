@@ -25,7 +25,9 @@ Storage |250GB|166GB|73GB|
 
 
 ## 🏈대회소개🏈  
-<img width="610" alt="스크린샷 2023-03-24 오후 3 05 59" src="https://user-images.githubusercontent.com/112835087/227438232-5538ff70-ca26-4024-a606-679af843c747.png">
+<p align="center">
+  <img width="610" alt="스크린샷 2023-03-24 오후 3 05 59" src="https://user-images.githubusercontent.com/112835087/227438232-5538ff70-ca26-4024-a606-679af843c747.png">
+ </p>
 
 > 미식축구(National Football League, NFL)는 미국에서 가장 인기 있는 프로페셔널 리그 중 하나
 미식축구 경기는 공을 가지고 상대편 골대까지 전진하며 점수를 얻는 것이 목적
