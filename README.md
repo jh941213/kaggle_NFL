@@ -49,13 +49,13 @@ VIDEO 및 플레이어 Tracking Data를 사용하여 선수 부상 감시 및 �
 3️⃣ 여기에 이어 열린 3번째 대회 선수 접촉 탐지(Player Contact Detection) - 경기 중에 누가 접촉을 했는가?  
 ***
 ## 📌 대회규칙
-<img width="600" height = "400" alt="스크린샷 2023-03-24 오후 3 27 30" src="https://user-images.githubusercontent.com/112835087/227442507-26d691d0-e372-4af8-a288-25d01b84b7d4.png">
+<img width="600" height = "300" alt="스크린샷 2023-03-24 오후 3 27 30" src="https://user-images.githubusercontent.com/112835087/227442507-26d691d0-e372-4af8-a288-25d01b84b7d4.png">
 
 ***
 
 
 ## 📆 수행일정 
-<img width="600" img height="400" src="https://user-images.githubusercontent.com/112835087/227437692-0209e5fa-d55c-474c-afb7-296772346876.png">
+<img width="600" img height="300" src="https://user-images.githubusercontent.com/112835087/227437692-0209e5fa-d55c-474c-afb7-296772346876.png">
 
 ***
 
