@@ -42,6 +42,7 @@ Storage |250GB|166GB|73GB|
 ### NFL(The National Football League) & AWS에서 주최한 미식축구 관련 대회 VIDEO 및 플레이어 Tracking Data를 사용하여 선수 부상 감시 및 완화 프로그램을 만들기 위한 목적  
 
 
+
 >1️⃣ 첫번째 대회는 헬멧 충돌 탐지(Impact Detection) - 헬멧 중 어떤 것이 충돌을 일으키고 있는가?  
 
 >2️⃣ 두번째 대회는 헬멧 배정(Helmet Assignment) - 충돌하는 헬멧을 쓰고 있는 선수는 누구인가?  
