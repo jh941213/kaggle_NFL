@@ -18,10 +18,13 @@ Storage |250GB|166GB|73GB|
 
 # 목차
 - [🏈 대회소개](#-대회소개)
-- [📆 Schedule(Time Stamp)](https://timetreeapp.com/calendars/Bs7yrwhD6Q5H)
+- [📆 수행일정](#-수행일정)
 
 
 
 
 
 ## 🏈대회소개🏈  
+
+## 📆수행일정📆
+<img width="800" img height="600" src="https://user-images.githubusercontent.com/112835087/227437692-0209e5fa-d55c-474c-afb7-296772346876.png">
