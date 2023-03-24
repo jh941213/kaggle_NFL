@@ -25,6 +25,11 @@ Storage |250GB|166GB|73GB|
 
 
 ## 🏈대회소개🏈  
+<img width="626" alt="스크린샷 2023-03-24 오후 3 05 18" src="https://user-images.githubusercontent.com/112835087/227438084-7479688c-281d-4683-a63e-addd40276f7b.png">
+미식축구(National Football League, NFL)는 미국에서 가장 인기 있는 프로페셔널 리그 중 하나
+미식축구 경기는 공을 가지고 상대편 골대까지 전진하며 점수를 얻는 것이 목적
+총 32개의 팀으로 구성되어 있으며, 미국과 세계 각지에서 매년 매우 인기 있는 경기들을 개최
+매년 2월 초에 열리는 NFL의 결승전인 슈퍼볼은 단일 스포츠 이벤트로서는 세계 최대 규모의 흥행을 자랑 
 
 ## 📆수행일정📆
 <img width="1200" img height="600" src="https://user-images.githubusercontent.com/112835087/227437692-0209e5fa-d55c-474c-afb7-296772346876.png">
