@@ -9,4 +9,12 @@ Team Member|Team Member|Team Leader|Team Member|Team Member|
 <img src="https://user-images.githubusercontent.com/112835087/214769736-c6880568-a4f9-42f7-b5d9-3ef466b6a997.jpeg" width="100" height="100">|<img src="https://user-images.githubusercontent.com/112835087/214769769-f12d45ae-6b09-4567-b142-591c73ccffdb.png" width="100" height="100">|<img src="https://user-images.githubusercontent.com/112835087/227434174-b9458dbd-3819-4947-8533-386baafcdfc1.jpg" width="100" height="100">|<img src ="https://user-images.githubusercontent.com/112835087/227434260-00788b7e-16ec-4d71-b2a5-2fa5fff37e6b.png" width="100" height="100">|<img src="https://user-images.githubusercontent.com/112835087/227434307-5314bcf8-8980-4389-8be8-4ca0b744d395.jpg" width="100" height="100">
 
 
+# 💾 Team Preferences  
+비고| AWS Server | Google Colab | Kaggle Notebook |
+-----|-------|-------|-------|
+GPU | A10G | T4 | P100
+RAM |16GB|13~52GB|13GB|
+Storage |250GB|166GB|73GB| 
+
+
 ## 🏈대회소개🏈  
