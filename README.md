@@ -39,15 +39,14 @@ Storage |250GB|166GB|73GB|
 
 ### Kaggle 1st and Futre - Player Contact Detection  
 <img width="966" alt="스크린샷 2023-03-24 오후 3 14 38" src="https://user-images.githubusercontent.com/112835087/227440285-519b539a-ba84-4a3c-a303-7bce5ad4e62d.png">  
-NFL(The National Football League) & AWS에서 주최한 미식축구 관련 대회 VIDEO 및 플레이어 Tracking Data를 사용하여 선수 부상 감시 및 완화 프로그램을 만들기 위한 목적  
+NFL(The National Football League) & AWS에서 주최한 미식축구 관련 대회 
+VIDEO 및 플레이어 Tracking Data를 사용하여 선수 부상 감시 및 완화 프로그램을 만들기 위한 목적  
 
 
 
->1️⃣ 첫번째 대회는 헬멧 충돌 탐지(Impact Detection) - 헬멧 중 어떤 것이 충돌을 일으키고 있는가?  
-
->2️⃣ 두번째 대회는 헬멧 배정(Helmet Assignment) - 충돌하는 헬멧을 쓰고 있는 선수는 누구인가?  
-
->3️⃣ 여기에 이어 열린 3번째 대회 선수 접촉 탐지(Player Contact Detection) - 경기 중에 누가 접촉을 했는가?  
+>1️⃣ 첫번째 대회는 헬멧 충돌 탐지(Impact Detection) - 헬멧 중 어떤 것이 충돌을 일으키고 있는가?   
+2️⃣ 두번째 대회는 헬멧 배정(Helmet Assignment) - 충돌하는 헬멧을 쓰고 있는 선수는 누구인가?  
+3️⃣ 여기에 이어 열린 3번째 대회 선수 접촉 탐지(Player Contact Detection) - 경기 중에 누가 접촉을 했는가?  
 
 
 
