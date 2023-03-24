@@ -47,15 +47,15 @@ VIDEO 및 플레이어 Tracking Data를 사용하여 선수 부상 감시 및 �
 >1️⃣ 첫번째 대회는 헬멧 충돌 탐지(Impact Detection) - 헬멧 중 어떤 것이 충돌을 일으키고 있는가?   
 2️⃣ 두번째 대회는 헬멧 배정(Helmet Assignment) - 충돌하는 헬멧을 쓰고 있는 선수는 누구인가?  
 3️⃣ 여기에 이어 열린 3번째 대회 선수 접촉 탐지(Player Contact Detection) - 경기 중에 누가 접촉을 했는가?  
-***  
+***
 ## 📌 대회규칙
 <img width="1200" height = "600" alt="스크린샷 2023-03-24 오후 3 27 30" src="https://user-images.githubusercontent.com/112835087/227442507-26d691d0-e372-4af8-a288-25d01b84b7d4.png">
-***  
+***
 
 
 ## 📆 수행일정 
 <img width="1200" img height="600" src="https://user-images.githubusercontent.com/112835087/227437692-0209e5fa-d55c-474c-afb7-296772346876.png">
-***  
+***
 
 ## 📁 데이터  
 
