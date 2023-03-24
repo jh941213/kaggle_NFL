@@ -81,10 +81,11 @@ NFL 영상| Train| Test |
 
 ## 💻 머신러닝  
 - 데이터 전처리
-<img width="1024" alt="스크린샷 2023-03-24 오후 3 54 18" src="https://user-images.githubusercontent.com/112835087/227447345-7bfb74e3-9a91-4821-ba46-fb5ef466905c.png">
-<img width="1024" alt="스크린샷 2023-03-24 오후 3 54 59" src="https://user-images.githubusercontent.com/112835087/227447467-dd86f564-02fa-4e9a-a02f-74f9e4ddd6a2.png">
+<img width="800" alt="스크린샷 2023-03-24 오후 3 54 18" src="https://user-images.githubusercontent.com/112835087/227447345-7bfb74e3-9a91-4821-ba46-fb5ef466905c.png">
+<img width="800" alt="스크린샷 2023-03-24 오후 3 55 44" src="https://user-images.githubusercontent.com/112835087/227447595-8c5ad133-0ccf-4eec-8c2c-aeda19605f10.png">
 
-- 모델 선정 및 학습  
+- 모델 선정 및
+ 학습  
 - 하이퍼 파라미터 튜닝
 
 ***
