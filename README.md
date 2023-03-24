@@ -39,7 +39,7 @@ Storage |250GB|166GB|73GB|
 
 ### Kaggle 1st and Futre - Player Contact Detection  
 <img width="966" alt="스크린샷 2023-03-24 오후 3 14 38" src="https://user-images.githubusercontent.com/112835087/227440285-519b539a-ba84-4a3c-a303-7bce5ad4e62d.png">
-**NFL(The National Football League) & AWS에서 주최한 미식축구 관련 대회!** 
+#### NFL(The National Football League) & AWS에서 주최한 미식축구 관련 대회
 
 VIDEO 및 플레이어 Tracking Data를 사용하여 선수 부상 감시 및 완화 프로그램을 만들기 위한 목적  
 
