@@ -2,7 +2,7 @@
 <img alt="NFL" src ="https://user-images.githubusercontent.com/112835087/227435245-cca96607-2203-4f21-a309-34632eb69cfb.png"/>
 
 
-# 👥 Team 
+# 👥 팀원  
 [김재현](http://https://github.com/jh941213) | [이성연](https://github.com/deepshadow25) | [임보라](https://github.com/violet417) | [정유석](https://github.com/dbtjr1103) | [이창재](https://github.com/com0040)
 ------|------|------|------|------|
 Team Member|Team Member|Team Leader|Team Member|Team Member|
