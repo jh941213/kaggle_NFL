@@ -106,18 +106,21 @@ ___
 - 데이터프레임에 새로운 열 'frame' 추가  
 - NFL Video 보다 Tracking Data의 Frame 의 길이가 김  
 - 두 Dataset 을 ball snap 이 발생하는 시점에 정보를 활용하여 맵핑  
-4. 결측치 처리
+3. 결측치 처리
 - 헬멧 정보를 가져와 PlayerID에 따라 그룹화 → **각 프레임별로 BBox 계산**
 - 누락된 프레임의 경우, 데이터의 양방향으로 **선형 보간**
 - 주변 정보를 충분히 고려하기 위해 **window 값을 24로 설정 (약 0.4초)**
 - 누락된 Frame 정보가 인접한 frame 정보를 바탕으로 적절하게 생성되어 **품질 개선**
-5. Image Transform
+4. Image Transform
 - 잘라낸 부분 이미지는 다음 단계에서 모델에 input으로 사용  
 **⇒ 이미지에서 선수끼리 충돌하는 영역에 집중 가능**
 5. Data Transformation
 - Geometric Transformations, Color Transformations, Blur, Noise, Crop and Pad, Optical Distortion, Grid Distortion 등 다양한 기법들을 고려해보았으나
+<img width="673" alt="스크린샷 2023-04-04 오전 11 28 05" src="https://user-images.githubusercontent.com/112835087/229671136-43425ae5-c6d9-4d3a-96e5-dd10cf6408ab.png">
 
-#### 모델 선정 및 학습   
+#### 모델 선정 및 학습 
+<img width="686" alt="스크린샷 2023-04-04 오전 11 27 50" src="https://user-images.githubusercontent.com/112835087/229671105-7dfd5dc2-253f-4a3a-9b52-cccec7ac66ab.png">
+
 
 
 #### 하이퍼파라미터 튜닝    
