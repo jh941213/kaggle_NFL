@@ -85,7 +85,12 @@ NFL 영상| Train| Test |
 ### 💻 머신러닝  
 ### 데이터 전처리  
 
-- 피처엔지니어링, 피처셀렉션, 파생변수 추가, 결측치 채우기, K-Fold CrossValidation   
+- 데이터 재구성  
+train_labels.csv
+<img width="600" alt="스크린샷 2023-04-04 오전 11 42 18" src="https://user-images.githubusercontent.com/112835087/229673053-32ea6135-77e5-4d94-b226-0e4008c0ddd4.png">
+player_tracking.csv
+ <img width="600" alt="스크린샷 2023-04-04 오전 11 43 01" src="https://user-images.githubusercontent.com/112835087/229673144-e632edfd-4a92-4759-8cd2-bfe1686dc441.png">
+
 
 ### 모델 선정 및 학습  
 
