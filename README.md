@@ -89,15 +89,23 @@ NFL 영상| Train| Test |
 
 ### 모델 선정 및 학습  
 
-- Pycaret 을 사용하여 모델선정 XGboost, LGBM, RandomForest, Catboost  
+- Pycaret 을 사용하여 모델선정 XGboost, LGBM
+
+<img width="600" alt="스크린샷 2023-04-04 오전 11 39 24" src="https://user-images.githubusercontent.com/112835087/229672708-d4f2fe1f-c6d1-426f-bd64-06108f188a39.png">
 
 ### 하이퍼 파라미터 튜닝  
 
 - Optuna frame work 를 사용하여 모델의 최적의 파라미터 값 찾기
 
+<img width="600" alt="스크린샷 2023-04-04 오전 11 40 23" src="https://user-images.githubusercontent.com/112835087/229672808-9b0e303f-4473-44f9-8035-8f16c4af1dc6.png">
+
 ### Group K-fold  
 
 - 'game_play' 영상데이터를 frame 단위로 구분한 시계열 데이터이므로 Group K-fold 교차 검증 수행
+
+<img width="600" alt="스크린샷 2023-04-04 오전 11 40 43" src="https://user-images.githubusercontent.com/112835087/229672851-5658d5e4-402b-42f8-ab7c-284d057f4021.png">
+
+
 ___
 
 ### 🧘 딥러닝  
