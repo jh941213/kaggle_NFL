@@ -101,6 +101,7 @@ player_tracking.csv
 <img width="600" alt="스크린샷 2023-04-04 오전 11 46 32" src="https://user-images.githubusercontent.com/112835087/229673621-a3229b39-bb19-4e34-bb1f-0d7723b0bdf8.png">
 
 2️⃣ 데이터 필터링  
+
 - **거리 2야드 이하인 Feature만 선택 (2야드 = 약 1.8미터)**
     - 서로 가까운 선수들만 포함하여 **접촉 가능성이 높은 데이터에 집중함**으로써 더 정확한 접촉 감지 모델을 학습
     - **접촉 가능성이 낮은 데이터를 제거**함으로써, 모델이 불필요한 노이즈에 영향을 받지 않고 접촉 감지에 집중
@@ -108,10 +109,12 @@ player_tracking.csv
 <img width="600" alt="스크린샷 2023-04-04 오전 11 48 23" src="https://user-images.githubusercontent.com/112835087/229673928-585c7d88-bea9-4475-89a6-19f5fbdbcf43.png">  
 
 3️⃣ 파생변수 추가  
+
 <img width="600" alt="스크린샷 2023-04-04 오전 11 48 51" src="https://user-images.githubusercontent.com/112835087/229674033-16a31c77-8fc9-439a-99f9-35b1064abc10.png">  
+
 - 헬멧 Bounding Box 정보로 **클러스터링**을 이용하여 데이터 feature 증강
 - **데이터 간의 차**를 이용하여 feature 증강
-- **데이터 간의 곱**을 이용하여 feature 증강  
+- **데이터 간의 곱**을 이용하여 feature 증강    
 
 4️⃣ 결측치 처리
 - 선수가 땅에 부딪힐 경우 결측치를 '0'으로 채움
