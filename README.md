@@ -88,8 +88,13 @@ NFL 영상| Train| Test |
 1️⃣데이터 재구성  
 train_labels.csv  
 <img width="600" alt="스크린샷 2023-04-04 오전 11 42 18" src="https://user-images.githubusercontent.com/112835087/229673053-32ea6135-77e5-4d94-b226-0e4008c0ddd4.png">  
+
 player_tracking.csv  
  <img width="600" alt="스크린샷 2023-04-04 오전 11 43 01" src="https://user-images.githubusercontent.com/112835087/229673144-e632edfd-4a92-4759-8cd2-bfe1686dc441.png">  
+- 한 선수의 정보만 기록된 기존 정보에서 **두 선수의 정보를 모두 고려 (8 * 2)**
+- **'step'을 기준**으로 PLAYER 1과 PLAYER 2의 위치(X, Y 좌표), 이동 속도, 거리, 가속도, 선수 방향, 선수가 바라보는 방향 추가
+- 한 팀당 선수는 **11명 / 총 22명의 선수들 사이의 모든 경우의 수 기록**
+- **두 선수의 거리, nfl_player_id_1의 그라운드 충돌 여부 추가**
 
 
 ### 모델 선정 및 학습  
