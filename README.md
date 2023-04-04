@@ -1,5 +1,11 @@
 # 🏈 Kaggle_NFL  
-<img alt="NFL" src ="https://user-images.githubusercontent.com/112835087/227435245-cca96607-2203-4f21-a309-34632eb69cfb.png"/>
+🥉Kaggle Bronze 획득
+- Private Score
+![private](https://user-images.githubusercontent.com/112835087/229681560-a245932f-4dba-482f-9a6a-78f29a75f66c.jpg)  
+- Public Score
+![public](https://user-images.githubusercontent.com/112835087/229681566-aba8ae95-5995-4e33-8124-648623fc24ac.jpg)
+
+
 
 
 # 👥 팀원  
