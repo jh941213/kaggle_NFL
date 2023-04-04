@@ -98,7 +98,7 @@ ___
 
 ### 🧘 딥러닝  
 #### 데이터 전처리 
-1. Video 영상 파일을 이미 파일로 변환 -> 변환 후 이미지 총 372,506 장
+1. Video 영상 파일을 이미 파일로 변환 -> 변환 후 이미지 총 372,506 장  
 **⇒  2.5D 모델로 학습(연산량을 낮추고, 학습시간을 낮춘다) 시간정보를 반영하였기 때문에 각 픽셀의 공간적 정보를 유지함으로써 양질의 데이터**  
 2. Feature Selection  
 - 거리 2야드 이하인 Feature 만 선택  
@@ -111,7 +111,7 @@ ___
 - 주변 정보를 충분히 고려하기 위해 **window 값을 24로 설정 (약 0.4초)**
 - 누락된 Frame 정보가 인접한 frame 정보를 바탕으로 적절하게 생성되어 **품질 개선**
 5. Image Transform   
-- 잘라낸 부분 이미지는 다음 단계에서 모델에 input으로 사용. 
+- 잘라낸 부분 이미지는 다음 단계에서 모델에 input으로 사용  
 **⇒ 이미지에서 선수끼리 충돌하는 영역에 집중 가능**
 5. Data Transformation  
 - Geometric Transformations, Color Transformations, Blur, Noise, Crop and Pad, Optical Distortion, Grid Distortion 등 다양한 기법들을 고려해보았으나
