@@ -131,16 +131,17 @@ ___
 
 ### 앙상블  
 - Stacking
-![Untitled](https://user-images.githubusercontent.com/112835087/229672093-03474eba-91f5-4896-bb75-f7999c36c5ab.png)
+<img width="600" src="https://user-images.githubusercontent.com/112835087/229672093-03474eba-91f5-4896-bb75-f7999c36c5ab.png">
 
 - Hard Voting
-![Untitled2](https://user-images.githubusercontent.com/112835087/229672202-f83d79c8-a64b-4137-8524-d869486fd1c6.png)
+<img width="600" src="https://user-images.githubusercontent.com/112835087/229672202-f83d79c8-a64b-4137-8524-d869486fd1c6.png">
+
 
 - Soft Voting
-![Untitled3](https://user-images.githubusercontent.com/112835087/229672216-5be52ddb-4750-4b07-97ee-f3b16b685473.png)
+<img width="600" src="https://user-images.githubusercontent.com/112835087/229672216-5be52ddb-4750-4b07-97ee-f3b16b685473.png">
 
 - Attempts
-![Untitled4](https://user-images.githubusercontent.com/112835087/229672229-8bc938e5-5e29-4091-bb86-a0c7c119dd07.png)
+<img width="600" src="https://user-images.githubusercontent.com/112835087/229672216-5be52ddb-4750-4b07-97ee-f3b16b685473.png">
 
 
 
