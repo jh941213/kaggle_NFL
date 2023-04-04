@@ -116,10 +116,11 @@ ___
 **⇒ 이미지에서 선수끼리 충돌하는 영역에 집중 가능**
 5. Data Transformation
 - Geometric Transformations, Color Transformations, Blur, Noise, Crop and Pad, Optical Distortion, Grid Distortion 등 다양한 기법들을 고려해보았으나
-<img width="673" alt="스크린샷 2023-04-04 오전 11 28 05" src="https://user-images.githubusercontent.com/112835087/229671136-43425ae5-c6d9-4d3a-96e5-dd10cf6408ab.png">
+📂 최종데이터  
+<img width="400" alt="스크린샷 2023-04-04 오전 11 28 05" src="https://user-images.githubusercontent.com/112835087/229671136-43425ae5-c6d9-4d3a-96e5-dd10cf6408ab.png">
 
 #### 모델 선정 및 학습 
-<img width="686" alt="스크린샷 2023-04-04 오전 11 27 50" src="https://user-images.githubusercontent.com/112835087/229671105-7dfd5dc2-253f-4a3a-9b52-cccec7ac66ab.png">
+<img width="400" alt="스크린샷 2023-04-04 오전 11 27 50" src="https://user-images.githubusercontent.com/112835087/229671105-7dfd5dc2-253f-4a3a-9b52-cccec7ac66ab.png">
 
 
 
