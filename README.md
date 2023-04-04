@@ -85,7 +85,7 @@ NFL 영상| Train| Test |
 ### 💻 머신러닝  
 ### 데이터 전처리  
 
-- 데이터 재구성  
+1️⃣데이터 재구성  
 train_labels.csv
 <img width="600" alt="스크린샷 2023-04-04 오전 11 42 18" src="https://user-images.githubusercontent.com/112835087/229673053-32ea6135-77e5-4d94-b226-0e4008c0ddd4.png">
 player_tracking.csv
