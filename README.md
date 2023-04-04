@@ -113,7 +113,7 @@ ___
 4. Image Transform
 <img width="400" alt="스크린샷 2023-04-04 오전 11 19 49" src="https://user-images.githubusercontent.com/112835087/229670032-5d82c882-ef04-4124-a5bd-45283becd73f.png">
 - 잘라낸 부분 이미지는 다음 단계에서 모델에 input으로 사용
-  **⇒ 이미지에서 선수끼리 충돌하는 영역에 집중 가능**
+**⇒ 이미지에서 선수끼리 충돌하는 영역에 집중 가능**
 5. Data Transformation
 - Geometric Transformations, Color Transformations, Blur, Noise, Crop and Pad, Optical Distortion, Grid Distortion 등 다양한 기법들을 고려해보았으나
 
