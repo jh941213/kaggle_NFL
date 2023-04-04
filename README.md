@@ -125,13 +125,22 @@ ___
 - 📊 최종데이터 시각화  
 <img width="600" alt="스크린샷 2023-04-04 오전 11 28 05" src="https://user-images.githubusercontent.com/112835087/229671136-43425ae5-c6d9-4d3a-96e5-dd10cf6408ab.png">
 
-### 모델 선정 및 학습 
+### 모델링  
 - 멀티모달 
 <img width="600" alt="스크린샷 2023-04-04 오전 11 27 50" src="https://user-images.githubusercontent.com/112835087/229671105-7dfd5dc2-253f-4a3a-9b52-cccec7ac66ab.png">
 
+### 앙상블  
+- Stacking
+![Untitled](https://user-images.githubusercontent.com/112835087/229672093-03474eba-91f5-4896-bb75-f7999c36c5ab.png)
 
+- Hard Voting
+![Untitled2](https://user-images.githubusercontent.com/112835087/229672202-f83d79c8-a64b-4137-8524-d869486fd1c6.png)
 
-### 하이퍼파라미터 튜닝    
+- Soft Voting
+![Untitled3](https://user-images.githubusercontent.com/112835087/229672216-5be52ddb-4750-4b07-97ee-f3b16b685473.png)
+
+- Attempts
+![Untitled4](https://user-images.githubusercontent.com/112835087/229672229-8bc938e5-5e29-4091-bb86-a0c7c119dd07.png)
 
 
 
