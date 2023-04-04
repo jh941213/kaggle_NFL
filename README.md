@@ -111,10 +111,10 @@ ___
 - 주변 정보를 충분히 고려하기 위해 **window 값을 24로 설정 (약 0.4초)**
 - 누락된 Frame 정보가 인접한 frame 정보를 바탕으로 적절하게 생성되어 **품질 개선**
 4. Image Transform
+<img width="400" alt="스크린샷 2023-04-04 오전 11 19 49" src="https://user-images.githubusercontent.com/112835087/229670032-5d82c882-ef04-4124-a5bd-45283becd73f.png">
 - 잘라낸 부분 이미지는 다음 단계에서 모델에 input으로 사용
   **⇒ 이미지에서 선수끼리 충돌하는 영역에 집중 가능**
 5. Data Transformation
-    ![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/682c8c33-cbdf-4410-aba1-9ba3b1181b8b/Untitled.png)
 - Geometric Transformations, Color Transformations, Blur, Noise, Crop and Pad, Optical Distortion, Grid Distortion 등 다양한 기법들을 고려해보았으나
 
 #### 모델 선정 및 학습   
