@@ -84,20 +84,25 @@ NFL 영상| Train| Test |
 
 ### 💻 머신러닝  
 ### 데이터 전처리  
+
 - 피처엔지니어링, 피처셀렉션, 파생변수 추가, 결측치 채우기, K-Fold CrossValidation   
 
 ### 모델 선정 및 학습  
+
 - Pycaret 을 사용하여 모델선정 XGboost, LGBM, RandomForest, Catboost  
 
 ### 하이퍼 파라미터 튜닝  
+
 - Optuna frame work 를 사용하여 모델의 최적의 파라미터 값 찾기
 
 ### Group K-fold  
+
 - 'game_play' 영상데이터를 frame 단위로 구분한 시계열 데이터이므로 Group K-fold 교차 검증 수행
 ___
 
 ### 🧘 딥러닝  
 ### 데이터 전처리  
+
 1. Video 영상 파일을 이미 파일로 변환 -> 변환 후 이미지 총 372,506 장  
 **⇒ 2.5D 모델로 학습(연산량을 낮추고, 학습시간을 낮춘다) 시간정보를 반영하였기 때문에 각 픽셀의 공간적 정보를 유지함으로써 양질의 데이터** 
 
@@ -117,7 +122,7 @@ ___
 5. Data Transformation
 - Geometric Transformations, Color Transformations, Blur, Noise, Crop and Pad, Optical Distortion, Grid Distortion 등 다양한 기법들을 고려해보았으나  
   
-- 📊 최종데이터 시각화
+- 📊 최종데이터 시각화  
 <img width="600" alt="스크린샷 2023-04-04 오전 11 28 05" src="https://user-images.githubusercontent.com/112835087/229671136-43425ae5-c6d9-4d3a-96e5-dd10cf6408ab.png">
 
 ### 모델 선정 및 학습 
