@@ -1,5 +1,5 @@
 # 🏈 Kaggle_NFL  
-🥉Kaggle Bronze 획득
+🥉Kaggle Bronze 획득🎉
 - Private Score
 ![private](https://user-images.githubusercontent.com/112835087/229681560-a245932f-4dba-482f-9a6a-78f29a75f66c.jpg)  
 - Public Score
